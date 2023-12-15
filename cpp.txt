@@ -1,1 +1,6 @@
+
+cout<<"okay";
+cout<<"ok";
+
 cout<<"lol";
+
