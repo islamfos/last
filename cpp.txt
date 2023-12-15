@@ -1,0 +1,2 @@
+cout<<"okay";
+cout<<"ok";
